@@ -1,3 +1,4 @@
 # firstproject
 This is my first git repository.
-Author - Ajy Kumar Parajapti
+<br>
+Author - Ajay Kumar Parajapti
